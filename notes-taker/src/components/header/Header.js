@@ -31,7 +31,7 @@ const Header = ({ state }) => {
             className="form-control me-2"
             type="text"
             name="searchText"
-            placeholder="Search"
+            placeholder="Author name"
             aria-label="Search"
           />
           <button className="btn  btn-dark" type="submit">
